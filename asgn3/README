@@ -1,1 +1,3 @@
-Gavin Lynch (galynch)
+Two different C files that will take a text file and quickly encode it
+with huffman encoding, and another that will decode the encoded 
+file to its original contents.
