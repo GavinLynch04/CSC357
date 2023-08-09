@@ -1,1 +1,3 @@
-Gavin Lynch (galynch)
+Program that acts as a simple shell, taking command line arguments,
+parsing with an external library, then executing the commands. 
+Handles IO redirection, piping, and other features.
