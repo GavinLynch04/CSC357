@@ -1,2 +1,4 @@
-Gavin Lynch (galynch)
-N/A
+Takes a file of words and sorts based on frequency, returning the
+top 10 (or how many the user requests) words from the file. 
+Uses a hash table and quadratic probing to achieve this
+while still maintaining quick runtimes.
