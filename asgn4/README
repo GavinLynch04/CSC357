@@ -1,1 +1,5 @@
-Gavin Lynch (galynch)
+Program that imitates the functions of tar, with compression, listing, 
+extraction and various flag support
+Will take either a file, multiple files, a symlink, or a directory 
+and create a tar file that contains them. Can also list contents of file and extract
+the files as well.
